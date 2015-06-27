@@ -37,6 +37,5 @@ module .exports= {
         }
         return word;
     }
-
-    };
+   };
 
